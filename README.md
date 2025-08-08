@@ -33,7 +33,7 @@ An *interactive Power BI dashboard* analyzing energy consumption patterns. This 
 ## Dashboard Preview
 
 (Insert screenshots of your Power BI dashboard here)
-![Dashboard Preview](<img width="1345" height="755" alt="Energy Consumption Sheet 1" src="https://github.com/user-attachments/assets/c1329cae-503c-4022-8cfa-0f9284b71056" />
+![Dashboard Preview](<img width="1345" height="755" alt="Energy Consumption Sheet 1" src="https://github.com/user-attachments/assets/7b8de3a3-c821-4462-9aa2-3429407c6ebb" />
 )
 
 ---
