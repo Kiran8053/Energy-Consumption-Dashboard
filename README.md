@@ -33,7 +33,9 @@ An *interactive Power BI dashboard* analyzing energy consumption patterns. This 
 ## Dashboard Preview
 
 <img width="669" height="376" alt="image" src="https://github.com/user-attachments/assets/3818c14b-aff8-4e73-a02e-c79ccd5706a0" />
-
+<img width="674" height="380" alt="image" src="https://github.com/user-attachments/assets/523a4cef-13f3-4dab-83f6-f237dab6942d" />
+<img width="672" height="377" alt="image" src="https://github.com/user-attachments/assets/48c118e8-c289-441d-8c7c-5e99e3f718b3" />
+<img width="671" height="379" alt="image" src="https://github.com/user-attachments/assets/b1e53c38-5335-4f37-aad8-c26b3c2ba4ac" />
 
 ---
 
